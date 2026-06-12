@@ -23,7 +23,7 @@
 Проект состоит из трех основных файлов:
 
 ```text
-budget_helper/
+budget_helper
 ├── main.py
 ├── README.md
 └── .gitignore
