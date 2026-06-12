@@ -4,6 +4,9 @@
 
 - Лысенко Мирослав Андреевич 504458
 
+# Ссылка на видео-презентацию проекта
+https://drive.google.com/file/d/1PiYeegxthm9UICDv6rHh6v4B4QjiKA56/view?usp=sharing 
+
 # Описание проекта
 
 ## Цель проекта
